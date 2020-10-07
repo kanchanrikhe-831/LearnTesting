@@ -1,0 +1,7 @@
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\bin\Debug\SENG8040.exe.config
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\bin\Debug\SENG8040.exe
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\bin\Debug\SENG8040.pdb
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\obj\Debug\SENG8040.csprojAssemblyReference.cache
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\obj\Debug\SENG8040.csproj.CoreCompileInputs.cache
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\obj\Debug\SENG8040.exe
+C:\SQA-Learning\programing\SENG8040-Assignment1\SENG8040\obj\Debug\SENG8040.pdb
